@@ -1,0 +1,43 @@
+Efficacious Novel Intrusion Detection System for Cloud Computing Environment
+
+efficacious_novel_intrusion
+
+IEEE Transaction Access on Cloud Computing,Volume:12,Issue Date:26.July.2024
+
+
+Members
+-------
+
+Fid	 
+SourceIP	 
+SourcePort	 
+DestinationIP	 
+DestinationPort	 
+Timestamp	
+duration	
+protocol_type	
+service	
+flag	
+src_bytes	
+dst_bytes	
+Status
+Hash Code
+
+
+Database
+--------
+
+fid
+si
+sp
+di
+dp
+ts
+dur
+pt
+ser
+flg
+sb
+db
+sta
+hc
